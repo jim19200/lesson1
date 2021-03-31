@@ -1,5 +1,8 @@
 hello
 1
+<<<<<<< HEAD
 2
 2
 3
+=======
+>>>>>>> parent of caacb81 (Update test1.txt)
